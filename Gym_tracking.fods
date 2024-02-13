@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2024-02-11T12:13:13.793994300</meta:creation-date><dc:date>2024-02-11T18:22:19.215839048</dc:date><meta:editing-duration>PT41M18S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/24.2.0.3$MacOSX_X86_64 LibreOffice_project/da48488a73ddd66ea24cf16bbc4f7b9c08e9bea1</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="430" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2024-02-11T12:13:13.793994300</meta:creation-date><dc:date>2024-02-13T06:52:09.037359451</dc:date><meta:editing-duration>PT11H7M38S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/24.2.0.3$MacOSX_X86_64 LibreOffice_project/da48488a73ddd66ea24cf16bbc4f7b9c08e9bea1</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="627" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">33415</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">9483</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">22126</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">16708</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="ExerciseTable">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">33</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">46</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -30,8 +30,8 @@
        <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Tracker">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">29</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">42</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -48,7 +48,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Tracker</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1981</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">2947</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -136,7 +136,7 @@
      <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
     </config:config-item-map-entry>
     <config:config-item-map-entry config:name="ExerciseTable">
-     <config:config-item config:name="CodeName" config:type="string">Sheet1_2</config:config-item>
+     <config:config-item config:name="CodeName" config:type="string">ExerciseTable</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-named>
   </config:config-item-set>
@@ -266,16 +266,19 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.161cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.709cm"/>
   </style:style>
   <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.612cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.064cm"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="7.225cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.612cm"/>
   </style:style>
   <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.709cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="7.225cm"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.161cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.452cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -339,7 +342,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2024-02-11">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="14:49:29.111573520">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2024-02-13">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:14:31.126571025">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -356,14 +359,15 @@
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:table table:name="Tracker" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
       <text:p>Date</text:p>
@@ -401,10 +405,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Antagonist Stabilizers</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bodyweight</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row-group>
-     <table:table-row-group table:display="false">
-      <table:table-row table:style-name="ro1" table:visibility="collapse">
+     <table:table-row-group>
+      <table:table-row table:style-name="ro1">
        <table:table-cell office:value-type="date" office:date-value="2024-02-09" calcext:value-type="date">
         <text:p>2024-02-09</text:p>
        </table:table-cell>
@@ -429,20 +436,23 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C2]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-row table:style-name="ro1">
        <table:table-cell office:value-type="date" office:date-value="2024-02-09" calcext:value-type="date">
         <text:p>2024-02-09</text:p>
        </table:table-cell>
@@ -467,20 +477,23 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C3]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-row table:style-name="ro1">
        <table:table-cell office:value-type="date" office:date-value="2024-02-09" calcext:value-type="date">
         <text:p>2024-02-09</text:p>
        </table:table-cell>
@@ -505,17 +518,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C4]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table-row-group>
@@ -545,17 +561,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
         <text:p>Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
         <text:p>Hamstrings (bottom half), Gastrocnemius</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C5]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -583,17 +602,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
         <text:p>Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
         <text:p>Hamstrings (bottom half), Gastrocnemius</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C6]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -621,17 +643,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
         <text:p>Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
         <text:p>Hamstrings (bottom half), Gastrocnemius</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C7]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -659,17 +684,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
         <text:p>Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
         <text:p>Hamstrings (bottom half), Gastrocnemius</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C8]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -697,17 +725,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
         <text:p>Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
         <text:p>Hamstrings (bottom half), Gastrocnemius</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C9]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -735,17 +766,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus" calcext:value-type="string">
         <text:p>Gluteus Maximus, Adductor Magnus, Quadriceps, Hamstrings (top half), Soleus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Hamstrings (bottom half), Gastrocnemius" calcext:value-type="string">
         <text:p>Hamstrings (bottom half), Gastrocnemius</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Upper, Levator Scapulae, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C10]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table-row-group>
@@ -775,17 +809,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C11]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -813,17 +850,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C12]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -851,17 +891,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C13]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -889,17 +932,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>none</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C14]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -927,17 +973,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>drop</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
         <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
         <text:p>Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C15]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table-row-group>
@@ -967,17 +1016,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>bent over, each side</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
         <text:p>Biceps Brachii, Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps (supporting arm)" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps (supporting arm)" calcext:value-type="string">
         <text:p>Triceps (supporting arm)</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C16]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -1005,17 +1057,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>bent over, each side</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
         <text:p>Biceps Brachii, Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps (supporting arm)" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps (supporting arm)" calcext:value-type="string">
         <text:p>Triceps (supporting arm)</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C17]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -1043,17 +1098,20 @@
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>bent over, each side</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
         <text:p>Biceps Brachii, Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps (supporting arm)" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps (supporting arm)" calcext:value-type="string">
         <text:p>Triceps (supporting arm)</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C18]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table-row-group>
@@ -1081,17 +1139,20 @@
         <text:p>Back, General</text:p>
        </table:table-cell>
        <table:table-cell/>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
         <text:p>Biceps Brachii, Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus" calcext:value-type="string">
         <text:p>Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C19]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -1117,17 +1178,20 @@
         <text:p>Back, General</text:p>
        </table:table-cell>
        <table:table-cell/>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
         <text:p>Biceps Brachii, Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus" calcext:value-type="string">
         <text:p>Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C20]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -1153,17 +1217,20 @@
         <text:p>Back, General</text:p>
        </table:table-cell>
        <table:table-cell/>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
         <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
         <text:p>Biceps Brachii, Triceps Long Head</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus" calcext:value-type="string">
         <text:p>Erector Spinae, Hamstrings, Gluteus Maximus, Adductor Magnus</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C21]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table-row-group>
@@ -1191,17 +1258,20 @@
         <text:p>Deltoid Posterior</text:p>
        </table:table-cell>
        <table:table-cell/>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids" calcext:value-type="string">
         <text:p>Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Brachii, Wrist Extensors, Erector Spinae" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Brachii, Wrist Extensors, Erector Spinae" calcext:value-type="string">
         <text:p>Triceps Brachii, Wrist Extensors, Erector Spinae</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C22]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -1227,17 +1297,20 @@
         <text:p>Deltoid Posterior</text:p>
        </table:table-cell>
        <table:table-cell/>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids" calcext:value-type="string">
         <text:p>Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Brachii, Wrist Extensors, Erector Spinae" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Brachii, Wrist Extensors, Erector Spinae" calcext:value-type="string">
         <text:p>Triceps Brachii, Wrist Extensors, Erector Spinae</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C23]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1">
@@ -1263,28 +1336,520 @@
         <text:p>Deltoid Posterior</text:p>
        </table:table-cell>
        <table:table-cell/>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$7]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids" calcext:value-type="string">
         <text:p>Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Middle, Trapezius Lower, Rhomboids</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$7]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
         <text:p/>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$7]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Brachii, Wrist Extensors, Erector Spinae" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Brachii, Wrist Extensors, Erector Spinae" calcext:value-type="string">
         <text:p>Triceps Brachii, Wrist Extensors, Erector Spinae</text:p>
        </table:table-cell>
-       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$7]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+       <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C24]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
         <text:p>Rectus Abdominis, Obliques</text:p>
+       </table:table-cell>
+       <table:table-cell office:value-type="float" office:value="77.4" calcext:value-type="float">
+        <text:p>77.4</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table-row-group>
     </table:table-row-group>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scapula Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C25]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C25]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C25]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C25]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C25]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scapula Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C26]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C26]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C26]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C26]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scapula Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C27]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C27]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C27]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C27]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kneeling Lat Pulldown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C28]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Latissimus Dorsi" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C28]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C28]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C28]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C28]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kneeling Lat Pulldown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="50" calcext:value-type="float">
+      <text:p>50</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C29]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Latissimus Dorsi" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C29]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C29]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C29]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C29]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kneeling Lat Pulldown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="50" calcext:value-type="float">
+      <text:p>50</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C30]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Latissimus Dorsi" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C30]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C30]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C30]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C30]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kneeling Lat Pulldown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="50" calcext:value-type="float">
+      <text:p>50</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C31]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Latissimus Dorsi" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C31]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C31]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C31]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C31]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Inverted Row</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C32]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Back, General" calcext:value-type="string">
+      <text:p>Back, General</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Step 8 (from below)</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C32]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+      <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C32]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+      <text:p>Biceps Brachii, Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C32]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus" calcext:value-type="string">
+      <text:p>Erector Spinae, Hamstrings, Gluteus Maximus</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C32]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+      <text:p>Rectus Abdominis, Obliques</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Inverted Row</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C33]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Back, General" calcext:value-type="string">
+      <text:p>Back, General</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Step 8 (from below)</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C33]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+      <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C33]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+      <text:p>Biceps Brachii, Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C33]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus" calcext:value-type="string">
+      <text:p>Erector Spinae, Hamstrings, Gluteus Maximus</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C33]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+      <text:p>Rectus Abdominis, Obliques</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Inverted Row</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C34]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Back, General" calcext:value-type="string">
+      <text:p>Back, General</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Step 8 (from below)</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C34]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal" calcext:value-type="string">
+      <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C34]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Biceps Brachii, Triceps Long Head" calcext:value-type="string">
+      <text:p>Biceps Brachii, Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C34]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Erector Spinae, Hamstrings, Gluteus Maximus" calcext:value-type="string">
+      <text:p>Erector Spinae, Hamstrings, Gluteus Maximus</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C34]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Rectus Abdominis, Obliques" calcext:value-type="string">
+      <text:p>Rectus Abdominis, Obliques</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Negative Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C35]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Latissimus Dorsi" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10 seconds down</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C35]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C35]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C35]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C35]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="date" office:date-value="2024-02-12" calcext:value-type="date">
+      <text:p>2024-02-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pull Up Training</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Negative Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C36]; [ExerciseTable.$A$2:.$F$37]; 2; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Latissimus Dorsi" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11 seconds down</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C36]; [ExerciseTable.$A$2:.$F$37]; 3; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C36]; [ExerciseTable.$A$2:.$F$37]; 6; 0); &quot;Not Found&quot;)" office:value-type="string" office:string-value="Triceps Long Head" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C36]; [ExerciseTable.$A$2:.$F$37]; 4; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IFERROR(VLOOKUP([.C36]; [ExerciseTable.$A$2:.$F$37]; 5; 0); &quot;Not Found&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="78.8" calcext:value-type="float">
+      <text:p>78.8</text:p>
+     </table:table-cell>
+    </table:table-row>
    </table:table>
    <table:table table:name="ExerciseTable" table:style-name="ta1">
-    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Exercise</text:p>
@@ -1824,6 +2389,77 @@
       <text:p>Deltoid Posterior, Latissimus Dorsi, Trapezius Middle, Trapezius Lower, Rhomboids, Extensor Carpi Ulnaris, Flexor Carpi Ulnaris</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scapula Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Band-assisted Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kneeling Lat Pulldown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis Minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Inverted Row</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Back, General</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Trapezius Middle, Trapezius Lower, Rhomboids, Latissimus Dorsi, Teres Major, Deltoid Posterior, Infraspinatus, Teres Minor, Brachialis, Brachioradialis, Pectoralis Major Sternal</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Erector Spinae, Hamstrings, Gluteus Maximus</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rectus Abdominis, Obliques</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Biceps Brachii, Triceps Long Head</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Negative Pull Ups</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Latissimus Dorsi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brachialis, Brachioradialis, Biceps Brachii, Teres Major, Deltoid, Posterior, Infraspinatus, Teres Minor, Rhomboids, Levator Scapulae, Trapezius Lower, Trapezius Middle, Pectoralis minor</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Triceps Long Head</text:p>
+     </table:table-cell>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
